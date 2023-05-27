@@ -15,15 +15,15 @@ const Hero = () => (
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
+          Staking can be a great way to use your crypto to generate passive income{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
+            Staking
           </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
+          especially because some cryptocurrencies offer high interest rates for staking. Before you get started{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
+            Wiki
           </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          it's important to fully understand how crypto staking works.
         </>
       }
       avatar={
