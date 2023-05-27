@@ -35,14 +35,12 @@ const ProjectList = () => (
       />
       <Project
         name="Findora Staking"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
-        link="/"
+        description="Stake your FRA to earn rewards while securing the network. Learn more about staking, Findora’s tokenomics, and more."
+        link="/posts"
         img={{ src: '/assets/images/project-fire.png', alt: 'Project Fire' }}
         category={
           <>
-            <Tags color={ColorTags.VIOLET}>Next.js</Tags>
+            <Tags color={ColorTags.VIOLET}>Findora Staking</Tags>
             <Tags color={ColorTags.EMERALD}>Blog</Tags>
             <Tags color={ColorTags.YELLOW}>JavaScript</Tags>
           </>
