@@ -15,15 +15,17 @@ const Hero = () => (
       }
       description={
         <>
-          Staking can be a great way to use your crypto to generate passive income{' '}
+          Staking Can Be a Great Way To Use Your Crypto To Generate Passive Income.{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            Staking
+          👋
+            
           </a>{' '}
-          especially because some cryptocurrencies offer high interest rates for staking. Before you get started{' '}
+          Especially Because Some Cryptocurrencies Offer High Interest Rates For Staking. Before You Get Started{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            Wiki
+          👋
+
           </a>{' '}
-          it's important to fully understand how crypto staking works.
+          It's Important To Fully Understand How Crypto Staking Works.
         </>
       }
       avatar={
