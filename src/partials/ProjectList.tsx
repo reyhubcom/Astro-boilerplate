@@ -17,9 +17,7 @@ const ProjectList = () => (
     <div className="flex flex-col gap-6">
       <Project
         name="Binance Staking"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        description="Binance.Crypto Staking Simplifies The Staking Process To a Few Clicks, Allowing Customers to Easily, Securely, And Conveniently Stake And Earn Rewards."
         link="/"
         img={{
           src: '/assets/images/project-web-design.png',
@@ -27,7 +25,7 @@ const ProjectList = () => (
         }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>
+            <Tags color={ColorTags.FUCHSIA}>Elk.Finance</Tags>
             <Tags color={ColorTags.LIME}>Web design</Tags>
             <Tags color={ColorTags.SKY}>Tailwind.css</Tags>
             <Tags color={ColorTags.ROSE}>TypeScript</Tags>
