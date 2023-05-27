@@ -18,7 +18,7 @@ const ProjectList = () => (
       <Project
         name="Binance Staking"
         description="Binance.Crypto Staking Simplifies The Staking Process To a Few Clicks, Allowing Customers to Easily, Securely, And Conveniently Stake And Earn Rewards."
-        link="/"
+        link="/posts"
         img={{
           src: '/assets/images/project-web-design.png',
           alt: 'Project Web Design',
