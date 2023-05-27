@@ -48,10 +48,8 @@ const ProjectList = () => (
       />
       <Project
         name="Aurora Staking"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
-        link="/"
+        description="Stake your AURORA to receive not only additional AURORA tokens, but also tokens from partner projects throughout the Aurora ecosystem!."
+        link="/posts"
         img={{ src: '/assets/images/project-maps.png', alt: 'Project Maps' }}
         category={
           <>
