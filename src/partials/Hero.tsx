@@ -29,8 +29,11 @@ const Hero = () => (
         </>
       }
       avatar={
-        <i<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-        <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_LdsMcwTp7O.json"  background="transparent"  speed="1"  style="width: 100px; height: 100px;"  loop  autoplay></lottie-player>
+        <img
+          className="h-80 w-64"
+          src="/assets/images/avatar.svg"
+          alt="Avatar image"
+          loading="lazy"
         />
       }
       socialButtons={
